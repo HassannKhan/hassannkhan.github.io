@@ -433,3 +433,4 @@ triplelift.com, 13042, RESELLER
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 xandr.com, 15840, RESELLER
+facebook.com, 580567826687825, DIRECT, c3e20eee3f780d68
